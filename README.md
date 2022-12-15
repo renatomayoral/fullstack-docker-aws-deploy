@@ -10,4 +10,6 @@ Run command:
 cd multicontainer_docker_tutorial
 docker-compose up --build
 
-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
+
+
+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
